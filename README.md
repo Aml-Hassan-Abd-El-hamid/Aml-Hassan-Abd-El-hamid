@@ -6,7 +6,7 @@ I’m **Aml Hassan**, a Data Scientist passionate about building AI systems that
 - 🧠 Previously at **WideBot**, I built scalable pipelines for **Arabic TTS** and fine-tuned models for **summarization** in both **MSA and Egyptian dialects**.  
 - 🌍 I’ve also contributed to **open-source federated learning research** with Flower Labs, and developed projects like **AI Lip Sync** and **bilingual text clustering**.  
 - 🔬 My interests span **multimodal AI, generative models, and efficient ML systems**.  
-- 🌱 Always learning—currently exploring **advanced AWS services** and **federated optimization techniques**.  
+- 🌱 Always learning.  
 - ⚡ Fun fact: *Aml means Hope* 😄
 
 ## 🛠 Skills  
